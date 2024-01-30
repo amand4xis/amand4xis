@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 👽
+## Bem-vindo(a) ao meu perfil 🥰
 
  <div>
    <a href="https://github.com/amand4xis">
@@ -12,7 +12,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
+<br>
  
-<div>
-  <a href=target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div>
+<div> 
+  <a href="https://instagram.com/amand4.xis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div/>
